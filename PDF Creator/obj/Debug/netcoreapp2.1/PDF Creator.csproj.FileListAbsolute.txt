@@ -1,0 +1,64 @@
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\bin\Debug\netcoreapp2.1\PDF Creator.deps.json
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\bin\Debug\netcoreapp2.1\PDF Creator.runtimeconfig.json
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\bin\Debug\netcoreapp2.1\PDF Creator.runtimeconfig.dev.json
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\bin\Debug\netcoreapp2.1\PDF Creator.dll
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.csproj.CoreCompileInputs.cache
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.RazorAssemblyInfo.cache
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.RazorAssemblyInfo.cs
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.AssemblyInfoInputs.cache
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.AssemblyInfo.cs
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.TagHelpers.input.cache
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.TagHelpers.output.cache
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.RazorCoreGenerate.cache
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.RazorTargetAssemblyInfo.cache
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.RazorTargetAssemblyInfo.cs
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\bin\Debug\netcoreapp2.1\PDF Creator.pdb
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\bin\Debug\netcoreapp2.1\PDF Creator.Views.dll
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\bin\Debug\netcoreapp2.1\PDF Creator.Views.pdb
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.Views.pdb
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.dll
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.pdb
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.csproj.CopyComplete
+C:\Users\USMAN-PC\source\repos\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.csprojAssemblyReference.cache
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\bin\Debug\netcoreapp2.1\PDF Creator.deps.json
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\bin\Debug\netcoreapp2.1\PDF Creator.runtimeconfig.json
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\bin\Debug\netcoreapp2.1\PDF Creator.runtimeconfig.dev.json
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\bin\Debug\netcoreapp2.1\PDF Creator.dll
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\bin\Debug\netcoreapp2.1\PDF Creator.pdb
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\bin\Debug\netcoreapp2.1\PDF Creator.Views.dll
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\bin\Debug\netcoreapp2.1\PDF Creator.Views.pdb
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.csproj.CoreCompileInputs.cache
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.RazorAssemblyInfo.cache
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.RazorAssemblyInfo.cs
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.AssemblyInfoInputs.cache
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.AssemblyInfo.cs
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.TagHelpers.input.cache
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.TagHelpers.output.cache
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.RazorCoreGenerate.cache
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.RazorTargetAssemblyInfo.cache
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.RazorTargetAssemblyInfo.cs
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.Views.pdb
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.dll
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.pdb
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.csproj.CopyComplete
+D:\Aspose Works\Visual Studio Projects\PDF Creator\PDF Creator\obj\Debug\netcoreapp2.1\PDF Creator.csprojAssemblyReference.cache

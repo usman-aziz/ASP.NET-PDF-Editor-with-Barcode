@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "PDF Creator";
+}
+<script src="~/ckeditor/ckeditor.js"></script>
+<br />
+<form method="post">
+    <div class="row">
+        <div class="col-md-12">
+            <textarea name="editor1" id="editor1" rows="80" cols="80">
+                Start creating your PDF document.
+            </textarea>
+            <br />
+            <script>
+                // Replace the <textarea id="editor1"> with a CKEditor
+                // instance, using default configuration.
+                CKEDITOR.replace('editor1');
+            </script>
+        </div>
+        <hr />
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h3>Create a Barcode</h3>
+        </div>
+    </div>
+    <hr />
+    <div class="row">
+        <div class="col-md-9 form-horizontal" align="center">
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="CodeText">Code Text</label>
+                <div class="col-sm-10">
+                    <input class="form-control" type="text" name="codeText" id="codeText" placeholder="Code text" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="barcodeType">Symbology</label>
+                <div class="col-sm-10">
+                    <select name="barcodeType" class="form-control">
+                        <option value="Code128">Code128</option>
+                        <option value="Code11">Code11</option>
+                        <option value="QR">QR</option>
+                        <option value="Pdf417">Pdf417</option>
+                        <option value="Datamatrix">Datamatrix</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr />
+    <div class="row">
+        <div class="col-md-12" align="center">
+            <input type="submit" class="btn btn-lg btn-success" value="Generate PDF" />
+        </div>
+    </div>
+</form>
